@@ -47,16 +47,16 @@ Learn how to compress images into a latent space, generate new fashion items, vi
 - Visualize latent space using TSNE/PCA
 
 - Interpolate between two images in latent space
+For a full step-by-step explanation of this project, check out my **Medium article**:  
+[Generative AI from Scratch: Building a Variational Autoencoder on Fashion-MNIST](https://medium.com/@datascientist_SheezaShabbir/generative-ai-made-simple-build-your-first-variational-autoencoder-in-google-colab-b866ffb8fd9c)
+
+You can see all the **concepts, code breakdown, and visualizations** in detail there!
 ## Getting Started
 
 **Clone the repository:**
 
 ```bash
 git clone https://github.com/yourusername/vae-fashion-mnist.git
-```bash
 **Install dependencies:**
 pip install torch torchvision matplotlib tqdm scikit-learn
-For a full step-by-step explanation of this project, check out my **Medium article**:  
-[Generative AI from Scratch: Building a Variational Autoencoder on Fashion-MNIST](https://medium.com/@datascientist_SheezaShabbir/generative-ai-made-simple-build-your-first-variational-autoencoder-in-google-colab-b866ffb8fd9c)
 
-You can see all the **concepts, code breakdown, and visualizations** in detail there!
