@@ -56,7 +56,5 @@ You can see all the **concepts, code breakdown, and visualizations** in detail t
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/vae-fashion-mnist.git
-**Install dependencies:**
-pip install torch torchvision matplotlib tqdm scikit-learn
+git clone https://github.com/SheezaShabbir/variational-autoencoder-generative-model.git
 
